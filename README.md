@@ -26,4 +26,4 @@ This is a console-based application built with C# using Entity Framework Core (C
    
 ## 📫 Contact
 
-- LinkedIn: [Mahmoud Reda](linkedin.com/in/mahmoudredaprofile)
+- LinkedIn: [Mahmoud Reda](https://www.linkedin.com/in/mahmoudredaprofile/)
